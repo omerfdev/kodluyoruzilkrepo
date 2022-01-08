@@ -18,6 +18,8 @@ Linux için:
 ## Contributing
 Pull request kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
